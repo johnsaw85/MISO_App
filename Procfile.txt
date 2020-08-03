@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run MISO_Regressor.py
+web: sh setup.sh && streamlit run miso_regressor.py
